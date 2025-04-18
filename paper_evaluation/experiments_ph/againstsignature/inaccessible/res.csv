@@ -1,0 +1,11 @@
+approach,packer,samples_num,unknown_rate,false_positive_rate,precision,recall,f1_score,accuracy,avg_num_instances
+noclustering,beroexepacker,117.0,0.0,0.0,1.0,0.97,0.98,0.99,57.0
+noclustering,exe32pack,119.0,0.0,0.167,0.6,1.0,0.75,0.87,57.0
+noclustering,jdpack,127.0,0.0,0.0,1.0,0.59,0.74,0.91,57.0
+noclustering,neolite,111.0,0.0,0.0,1.0,0.93,0.96,0.99,57.0
+noclustering,packman,118.0,0.0,0.0,1.0,0.87,0.93,0.97,57.0
+clustering,beroexepacker,117.0,0.0,0.0,1.0,0.97,0.98,0.99,20.54
+clustering,exe32pack,119.0,0.13,0.0021,0.98,0.51,0.67,0.9,17.68
+clustering,jdpack,127.0,0.18,0.0022,0.99,0.73,0.84,0.94,12.65
+clustering,neolite,111.0,0.04,0.0083,0.96,0.96,0.96,0.99,20.7
+clustering,packman,118.0,0.02,0.1076,0.69,0.98,0.81,0.91,20.86

@@ -1,0 +1,689 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d17" for="node" attr.name="type_entry" attr.type="long" />
+  <key id="d16" for="node" attr.name="type_sub" attr.type="long" />
+  <key id="d15" for="node" attr.name="type_imp" attr.type="long" />
+  <key id="d14" for="node" attr.name="type_loc" attr.type="long" />
+  <key id="d13" for="node" attr.name="type_sym" attr.type="long" />
+  <key id="d12" for="node" attr.name="type_int" attr.type="long" />
+  <key id="d11" for="node" attr.name="type_fcn" attr.type="long" />
+  <key id="d10" for="node" attr.name="nargs" attr.type="long" />
+  <key id="d9" for="node" attr.name="nlocals" attr.type="long" />
+  <key id="d8" for="node" attr.name="outdegree" attr.type="long" />
+  <key id="d7" for="node" attr.name="indegree" attr.type="long" />
+  <key id="d6" for="node" attr.name="edges" attr.type="long" />
+  <key id="d5" for="node" attr.name="ninstrs" attr.type="long" />
+  <key id="d4" for="node" attr.name="nbbs" attr.type="long" />
+  <key id="d3" for="node" attr.name="cc" attr.type="long" />
+  <key id="d2" for="node" attr.name="realsz" attr.type="long" />
+  <key id="d1" for="node" attr.name="is-pure" attr.type="long" />
+  <key id="d0" for="node" attr.name="size" attr.type="long" />
+  <graph edgedefault="directed">
+    <node id="entry0">
+      <data key="d0">24</data>
+      <data key="d1">0</data>
+      <data key="d2">24</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">8</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d8">2</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17">1</data>
+    </node>
+    <node id="sym.imp.COMCTL32.DLL_InitCommonControls">
+      <data key="d0">3858</data>
+      <data key="d1">1</data>
+      <data key="d2">4046</data>
+      <data key="d3">204</data>
+      <data key="d4">336</data>
+      <data key="d5">1907</data>
+      <data key="d6">534</data>
+      <data key="d7">1</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">6</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">0</data>
+      <data key="d15">1</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="fcn.00401100">
+      <data key="d0">278</data>
+      <data key="d1">0</data>
+      <data key="d2">278</data>
+      <data key="d3">5</data>
+      <data key="d4">8</data>
+      <data key="d5">67</data>
+      <data key="d6">11</data>
+      <data key="d7">3</data>
+      <data key="d8">12</data>
+      <data key="d9">6</data>
+      <data key="d10">0</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.COMCTL32.DLL_InitCommonControls">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">1</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.KERNEL32.dll_SetUnhandledExceptionFilter">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">1</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="fcn.00402980">
+      <data key="d0">7</data>
+      <data key="d1">1</data>
+      <data key="d2">7</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">5</data>
+      <data key="d6">0</data>
+      <data key="d7">2</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.msvcrt.dll___getmainargs">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">1</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.msvcrt.dll__setmode">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">3</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.msvcrt.dll___p__fmode">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">1</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="fcn.00402950">
+      <data key="d0">40</data>
+      <data key="d1">0</data>
+      <data key="d2">34</data>
+      <data key="d3">2</data>
+      <data key="d4">4</data>
+      <data key="d5">12</data>
+      <data key="d6">4</data>
+      <data key="d7">1</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.msvcrt.dll___p__environ">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">1</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="main">
+      <data key="d0">280</data>
+      <data key="d1">0</data>
+      <data key="d2">274</data>
+      <data key="d3">11</data>
+      <data key="d4">20</data>
+      <data key="d5">95</data>
+      <data key="d6">29</data>
+      <data key="d7">1</data>
+      <data key="d8">6</data>
+      <data key="d9">7</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.msvcrt.dll__cexit">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">1</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.KERNEL32.dll_ExitProcess">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">1</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="fcn.00402610">
+      <data key="d0">524</data>
+      <data key="d1">0</data>
+      <data key="d2">518</data>
+      <data key="d3">6</data>
+      <data key="d4">12</data>
+      <data key="d5">141</data>
+      <data key="d6">16</data>
+      <data key="d7">1</data>
+      <data key="d8">13</data>
+      <data key="d9">37</data>
+      <data key="d10">2</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="fcn.00402d90">
+      <data key="d0">45</data>
+      <data key="d1">1</data>
+      <data key="d2">45</data>
+      <data key="d3">2</data>
+      <data key="d4">4</data>
+      <data key="d5">16</data>
+      <data key="d6">4</data>
+      <data key="d7">1</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="fcn.00402a30">
+      <data key="d0">100</data>
+      <data key="d1">0</data>
+      <data key="d2">100</data>
+      <data key="d3">6</data>
+      <data key="d4">11</data>
+      <data key="d5">35</data>
+      <data key="d6">15</data>
+      <data key="d7">1</data>
+      <data key="d8">2</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.KERNEL32.dll_GetCommandLineA">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">1</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.KERNEL32.dll_GetStartupInfoA">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">1</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.KERNEL32.dll_GetModuleHandleA">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">1</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.USER32.dll_RegisterClassW">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">1</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.USER32.dll_CreateWindowExW">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">1</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.USER32.dll_RegisterWindowMessageW">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">1</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.USER32.dll_FindWindowExW">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">3</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.msvcrt.dll_strstr">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">1</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.USER32.dll_TranslateMessage">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">1</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.USER32.dll_DispatchMessageW">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">1</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.USER32.dll_GetMessageW">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">1</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.USER32.dll_SetForegroundWindow">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">3</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="sub.USER32.dll_DialogBoxParamW">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">6</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">2</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+    </node>
+    <node id="fcn.00401260">
+      <data key="d0">12</data>
+      <data key="d1">0</data>
+      <data key="d2">12</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">5</data>
+      <data key="d6">0</data>
+      <data key="d7">2</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+    </node>
+    <edge source="entry0" target="sym.imp.COMCTL32.DLL_InitCommonControls" />
+    <edge source="entry0" target="fcn.00401100" />
+    <edge source="fcn.00401100" target="sub.KERNEL32.dll_SetUnhandledExceptionFilter" />
+    <edge source="fcn.00401100" target="fcn.00402980" />
+    <edge source="fcn.00401100" target="sub.msvcrt.dll___getmainargs" />
+    <edge source="fcn.00401100" target="sub.msvcrt.dll__setmode" />
+    <edge source="fcn.00401100" target="sub.msvcrt.dll___p__fmode" />
+    <edge source="fcn.00401100" target="fcn.00402950" />
+    <edge source="fcn.00401100" target="sub.msvcrt.dll___p__environ" />
+    <edge source="fcn.00401100" target="main" />
+    <edge source="fcn.00401100" target="sub.msvcrt.dll__cexit" />
+    <edge source="fcn.00401100" target="sub.KERNEL32.dll_ExitProcess" />
+    <edge source="sub.COMCTL32.DLL_InitCommonControls" target="sym.imp.COMCTL32.DLL_InitCommonControls" />
+    <edge source="sub.KERNEL32.dll_SetUnhandledExceptionFilter" target="sym.imp.COMCTL32.DLL_InitCommonControls" />
+    <edge source="sub.msvcrt.dll___getmainargs" target="sym.imp.COMCTL32.DLL_InitCommonControls" />
+    <edge source="sub.msvcrt.dll__setmode" target="sym.imp.COMCTL32.DLL_InitCommonControls" />
+    <edge source="sub.msvcrt.dll___p__fmode" target="sym.imp.COMCTL32.DLL_InitCommonControls" />
+    <edge source="sub.msvcrt.dll___p__environ" target="sym.imp.COMCTL32.DLL_InitCommonControls" />
+    <edge source="main" target="fcn.00402d90" />
+    <edge source="main" target="fcn.00402a30" />
+    <edge source="main" target="sub.KERNEL32.dll_GetCommandLineA" />
+    <edge source="main" target="sub.KERNEL32.dll_GetStartupInfoA" />
+    <edge source="main" target="sub.KERNEL32.dll_GetModuleHandleA" />
+    <edge source="main" target="fcn.00402610" />
+    <edge source="sub.msvcrt.dll__cexit" target="sym.imp.COMCTL32.DLL_InitCommonControls" />
+    <edge source="sub.KERNEL32.dll_ExitProcess" target="sym.imp.COMCTL32.DLL_InitCommonControls" />
+    <edge source="fcn.00402610" target="sub.COMCTL32.DLL_InitCommonControls" />
+    <edge source="fcn.00402610" target="sub.USER32.dll_RegisterClassW" />
+    <edge source="fcn.00402610" target="sub.USER32.dll_CreateWindowExW" />
+    <edge source="fcn.00402610" target="sub.USER32.dll_RegisterWindowMessageW" />
+    <edge source="fcn.00402610" target="sub.USER32.dll_FindWindowExW" />
+    <edge source="fcn.00402610" target="sub.msvcrt.dll_strstr" />
+    <edge source="fcn.00402610" target="sub.USER32.dll_TranslateMessage" />
+    <edge source="fcn.00402610" target="sub.USER32.dll_DispatchMessageW" />
+    <edge source="fcn.00402610" target="sub.USER32.dll_GetMessageW" />
+    <edge source="fcn.00402610" target="sub.USER32.dll_SetForegroundWindow" />
+    <edge source="fcn.00402610" target="sub.USER32.dll_DialogBoxParamW" />
+    <edge source="fcn.00402a30" target="fcn.00401260" />
+    <edge source="sub.KERNEL32.dll_GetCommandLineA" target="sym.imp.COMCTL32.DLL_InitCommonControls" />
+    <edge source="sub.KERNEL32.dll_GetStartupInfoA" target="sym.imp.COMCTL32.DLL_InitCommonControls" />
+    <edge source="sub.KERNEL32.dll_GetModuleHandleA" target="sym.imp.COMCTL32.DLL_InitCommonControls" />
+    <edge source="sub.USER32.dll_CreateWindowExW" target="sym.imp.COMCTL32.DLL_InitCommonControls" />
+    <edge source="sub.USER32.dll_FindWindowExW" target="sym.imp.COMCTL32.DLL_InitCommonControls" />
+    <edge source="sub.msvcrt.dll_strstr" target="sym.imp.COMCTL32.DLL_InitCommonControls" />
+    <edge source="sub.USER32.dll_DispatchMessageW" target="sym.imp.COMCTL32.DLL_InitCommonControls" />
+    <edge source="sub.USER32.dll_DialogBoxParamW" target="sym.imp.COMCTL32.DLL_InitCommonControls" />
+  </graph>
+</graphml>
